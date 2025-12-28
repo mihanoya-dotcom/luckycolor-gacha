@@ -1,0 +1,26 @@
+
+body {
+  background: linear-gradient(#0c102c, #1a1f3c);
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+
+.container {
+  padding-top: 100px;
+}
+
+.box {
+  width: 180px;
+  height: 180px;
+  margin: 20px auto;
+  background-image: url('crystal_box.png');
+  background-size: cover;
+}
+button {
+  padding: 14px 26px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+}
